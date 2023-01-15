@@ -1,0 +1,3 @@
+.terraform
+devTFazurekey.pub
+.terraform.lock.hcl

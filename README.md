@@ -1,0 +1,1 @@
+This script contains configuration for deploying a windows VM to an existing  Rresource group, Virtual Network and subnet.
